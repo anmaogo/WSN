@@ -30,12 +30,10 @@
  *
  */
 
-/**
- * \file
- *         Construccion Arbol
- * \author
- *         Diego Avellaneda
- */
+
+
+
+
 // Librerias
 #include <tree_rssi_lab1_lib.h>
  // llenar el beacon con la informacion
